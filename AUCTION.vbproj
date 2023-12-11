@@ -1,0 +1,1050 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{71AB7624-9E3D-415B-9B20-982161DD85A6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AUCTION.My.MyApplication</StartupObject>
+    <RootNamespace>AUCTION</RootNamespace>
+    <AssemblyName>AUCTION</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AUCTION.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AUCTION.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aboutus.Designer.vb">
+      <DependentUpon>aboutus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aboutus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accessadmin.Designer.vb">
+      <DependentUpon>accessadmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="accessadmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accesspage.Designer.vb">
+      <DependentUpon>accesspage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="accesspage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminaccess.Designer.vb">
+      <DependentUpon>adminaccess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminaccess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminforgotpass.Designer.vb">
+      <DependentUpon>adminforgotpass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminforgotpass.vb" />
+    <Compile Include="artsandcollections.Designer.vb">
+      <DependentUpon>artsandcollections.vb</DependentUpon>
+    </Compile>
+    <Compile Include="artsandcollections.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="asian_antiques.Designer.vb">
+      <DependentUpon>asian_antiques.vb</DependentUpon>
+    </Compile>
+    <Compile Include="asian_antiques.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AUCTION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AUCTION.Designer.vb">
+      <DependentUpon>AUCTION.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="auctionMDI.Designer.vb">
+      <DependentUpon>auctionMDI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="auctionMDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="auctionmodule.vb" />
+    <Compile Include="auctionreport.Designer.vb">
+      <DependentUpon>auctionreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="auctionreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bidding.Designer.vb">
+      <DependentUpon>bidding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="bidding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cam_drones.Designer.vb">
+      <DependentUpon>cam_drones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cam_drones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="digi_cameras.Designer.vb">
+      <DependentUpon>digi_cameras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="digi_cameras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="electronics.Designer.vb">
+      <DependentUpon>electronics.vb</DependentUpon>
+    </Compile>
+    <Compile Include="electronics.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fashion.Designer.vb">
+      <DependentUpon>fashion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fashion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kids_clothing.Designer.vb">
+      <DependentUpon>kids_clothing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="kids_clothing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kids_shoes.Designer.vb">
+      <DependentUpon>kids_shoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="kids_shoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laptop.Designer.vb">
+      <DependentUpon>laptop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laptop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lens.Designer.vb">
+      <DependentUpon>lens.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lens.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginpage.Designer.vb">
+      <DependentUpon>loginpage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="loginpage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mens_clothing.Designer.vb">
+      <DependentUpon>mens_clothing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mens_clothing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mens_shoes.Designer.vb">
+      <DependentUpon>mens_shoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mens_shoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="men_accessories.Designer.vb">
+      <DependentUpon>men_accessories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="men_accessories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="music_instruments.Designer.vb">
+      <DependentUpon>music_instruments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="music_instruments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="oldpassword.Designer.vb">
+      <DependentUpon>oldpassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="oldpassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pottery.Designer.vb">
+      <DependentUpon>pottery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pottery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product_desc.Designer.vb">
+      <DependentUpon>product_desc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="product_desc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product_info.Designer.vb">
+      <DependentUpon>product_info.vb</DependentUpon>
+    </Compile>
+    <Compile Include="product_info.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="product_registration.Designer.vb">
+      <DependentUpon>product_registration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="product_registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registration.Designer.vb">
+      <DependentUpon>registration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report.Designer.vb">
+      <DependentUpon>report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rules_regulation.Designer.vb">
+      <DependentUpon>rules_regulation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rules_regulation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sculpting.Designer.vb">
+      <DependentUpon>sculpting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sculpting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="smartphones.Designer.vb">
+      <DependentUpon>smartphones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="smartphones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="smartwatches.Designer.vb">
+      <DependentUpon>smartwatches.vb</DependentUpon>
+    </Compile>
+    <Compile Include="smartwatches.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stamps_india.Designer.vb">
+      <DependentUpon>stamps_india.vb</DependentUpon>
+    </Compile>
+    <Compile Include="stamps_india.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stamps_japan.Designer.vb">
+      <DependentUpon>stamps_japan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="stamps_japan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stamps_korea.Designer.vb">
+      <DependentUpon>stamps_korea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="stamps_korea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="statuspage.Designer.vb">
+      <DependentUpon>statuspage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="statuspage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablets.Designer.vb">
+      <DependentUpon>tablets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tablets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInfomation.Designer.vb">
+      <DependentUpon>UserInfomation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserInfomation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userlogintab.Designer.vb">
+      <DependentUpon>userlogintab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userlogintab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="womens_accessories.Designer.vb">
+      <DependentUpon>womens_accessories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="womens_accessories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="women_clothing.Designer.vb">
+      <DependentUpon>women_clothing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="women_clothing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="women_shoes.Designer.vb">
+      <DependentUpon>women_shoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="women_shoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="aboutus.resx">
+      <DependentUpon>aboutus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accessadmin.resx">
+      <DependentUpon>accessadmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accesspage.resx">
+      <DependentUpon>accesspage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminaccess.resx">
+      <DependentUpon>adminaccess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminforgotpass.resx">
+      <DependentUpon>adminforgotpass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="artsandcollections.resx">
+      <DependentUpon>artsandcollections.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="asian_antiques.resx">
+      <DependentUpon>asian_antiques.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AUCTION.resx">
+      <DependentUpon>AUCTION.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="auctionMDI.resx">
+      <DependentUpon>auctionMDI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="auctionreport.resx">
+      <DependentUpon>auctionreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bidding.resx">
+      <DependentUpon>bidding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cam_drones.resx">
+      <DependentUpon>cam_drones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="digi_cameras.resx">
+      <DependentUpon>digi_cameras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="electronics.resx">
+      <DependentUpon>electronics.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fashion.resx">
+      <DependentUpon>fashion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kids_clothing.resx">
+      <DependentUpon>kids_clothing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kids_shoes.resx">
+      <DependentUpon>kids_shoes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laptop.resx">
+      <DependentUpon>laptop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lens.resx">
+      <DependentUpon>lens.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginpage.resx">
+      <DependentUpon>loginpage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mens_clothing.resx">
+      <DependentUpon>mens_clothing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mens_shoes.resx">
+      <DependentUpon>mens_shoes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="men_accessories.resx">
+      <DependentUpon>men_accessories.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="music_instruments.resx">
+      <DependentUpon>music_instruments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oldpassword.resx">
+      <DependentUpon>oldpassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pottery.resx">
+      <DependentUpon>pottery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_desc.resx">
+      <DependentUpon>product_desc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_info.resx">
+      <DependentUpon>product_info.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_registration.resx">
+      <DependentUpon>product_registration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration.resx">
+      <DependentUpon>registration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report.resx">
+      <DependentUpon>report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rules_regulation.resx">
+      <DependentUpon>rules_regulation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sculpting.resx">
+      <DependentUpon>sculpting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="smartphones.resx">
+      <DependentUpon>smartphones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="smartwatches.resx">
+      <DependentUpon>smartwatches.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stamps_india.resx">
+      <DependentUpon>stamps_india.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stamps_japan.resx">
+      <DependentUpon>stamps_japan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stamps_korea.resx">
+      <DependentUpon>stamps_korea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="statuspage.resx">
+      <DependentUpon>statuspage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablets.resx">
+      <DependentUpon>tablets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInfomation.resx">
+      <DependentUpon>UserInfomation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userlogintab.resx">
+      <DependentUpon>userlogintab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="womens_accessories.resx">
+      <DependentUpon>womens_accessories.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="women_clothing.resx">
+      <DependentUpon>women_clothing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="women_shoes.resx">
+      <DependentUpon>women_shoes.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appl loptop.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appl loptop1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\appl loptop.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mac.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\ba3f5338693ea00fb8e613a22f7e196e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\kikumon-stamp-of-japan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\why-you-should-own-koban-stamps-of-japan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\istockphoto-185295219-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\download.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\emblom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\airMail_stamp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\WILD-LIFE-SERIES-INDIAN-LION-COMMEMORATIVE-STAMP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\taj_stamp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\holkar_state_stamp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\RHINO-COMMEMORATIVE-STAMP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\ind_stamp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\train_stamp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\train2_stamp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\a708f74b737c592d8691bf5b28fa2652--yi-sun-sin-south-korea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d9h2dp2euvmucluf5djz4q384zc7.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\republic-of-korea-flag-on-postage-stamp-2A7TFA8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MKU93.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MKU93_VW_34FR+watch-40-alum-starlight-cell-se_VW_34FR_WF_CO_GEO_IN.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MKU93_VW_PF+watch-40-alum-starlight-cell-se_VW_PF_WF_CO_GEO_IN.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pTron-FORCE-X10-Smart-Watch-493627249-i-1-1200Wx1200H.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ninja3_black_01_400x.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-asset.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ceramic-pottery-500x500.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\54ad748de4b058ea7711d504.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buddha.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kamakura.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chinse_fig.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lady.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Webp.net-resizeimage-4-1200x900.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2016-1st-place-crystal-classic-sandsculpting-competition-siesta-key.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clars.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0f6e7dd6ae0c86f51c26868a85238648--meiji-vase.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\How-much-Johannes-Reekers-painting-worth.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sarangi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main-image.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\300x300.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71mdoicpqWL._AC_SL1500_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0f02c219dc3645ad9f6622fa535fb049--low-cost-tech-news.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ipad-10th-gen-finish-select-202212-pink-wifi.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\81dBU+dhARL._AC_SL1500_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\55440.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8d0db401031e4decbdf0d82dce54c796_G7+X+mkIII+BK+Front.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51BEnCiD+VL._SY355_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quadcopter-hd-camera-drone-SDL835268691-1-eee9e.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drone 1 %283%29-min-1000x1000.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Canon-EF-S-18-55mm-f4-5.6-IS-STM-Lens-Online-Buy-Mumbai-India-2-500x500.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71R6LTyMphL._SY355_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12e8d1ddf5724ed8b5910734f1dfed67_RF14-35mm+f4L+IS+USM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\758841c0acc611d8430cf9d4a4fa94693bf70392.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-iphone-14-pro-max-256-gb-deep-purple-6-gb-ram-.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\motorola-edge-20-fusion-128-gb-electric-graphite-6-gb-ram- %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vivo-v25-pro-256-gb-sailing-blue-12-gb-ram- %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Style-Accessories-for-Men.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1636094253-2135.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mens-Fashion-Accessories-800x534.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e024923fbeb237384d84bf90f49c1351.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\occasion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tumblr_ociwti5VGH1uceufyo1_1280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61C-IWVh2pL._UY500_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\afd86f95484148860e221aee8b016737.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoes-on-amazon-amazon-running-shoes-91781166.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\womens-accessories-1621425704-5828046.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41xiaUAU9NL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71x3-vIYw2L._AC_UL320_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\039a6215_1_6_6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MP000000013748431_437Wx649H_202207101148401.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\193113951908-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\women-shoes-mobile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SBC-baby-boy_06._SY530_QL85_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SBC-baby-boy_06._SY530_QL85_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baby-girls-boy-newborn-kids-clothes-clothing-long-sleeve-dresses-winter-sky-b-lue-3t-kids-233_1445x.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\77636F_pds0011.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kids-shoes-1563014292-4996704.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61HkxdsBSXL._UY625_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61HkxdsBSXL._UY625_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gpay.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paytm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payapl_logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phonepay.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nataraja.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\THAI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coding_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17-avatar-man-nodding-lineal.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21-avatar-lineal.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21-avatar-lineal1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17-avatar-man-nodding-lineal1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21-avatar-lineal2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\34-code-outline.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\auc_img.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\access_page_pic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\access_page_pic1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aucMDI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a_mdi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mdi_auc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\auc_img1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a_mdi1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MDI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mdi1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2023-02-02 145323.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\auction.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product_info_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Media_product_info.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arts_poductinfo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\electronics1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fashion1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pro_info.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arts1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greek.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stamps1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password-forgot.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_auction.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laptop.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smartph.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manstyle1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manstyle11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\womanstyle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kidsfashion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kids.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lenovo_thinkpad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hp-laptops-v9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dell-laptops-v9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asus-laptops-v9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background110.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background112.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background113.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background114.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background115.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\womanshoes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\womanshoes1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background116.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background117.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mdi3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mdi31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arts_poductinfo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mdi32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background118.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background119.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background120.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

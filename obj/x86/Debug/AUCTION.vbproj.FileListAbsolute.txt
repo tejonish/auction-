@@ -1,0 +1,211 @@
+C:\Users\nishanth b\AppData\Local\Temporary Projects\AUCTION\bin\Debug\AUCTION.exe
+C:\Users\nishanth b\AppData\Local\Temporary Projects\AUCTION\bin\Debug\AUCTION.pdb
+C:\Users\nishanth b\AppData\Local\Temporary Projects\AUCTION\bin\Debug\AUCTION.xml
+C:\Users\nishanth b\AppData\Local\Temporary Projects\AUCTION\obj\x86\Debug\AUCTION.AUCTION.resources
+C:\Users\nishanth b\AppData\Local\Temporary Projects\AUCTION\obj\x86\Debug\AUCTION.Resources.resources
+C:\Users\nishanth b\AppData\Local\Temporary Projects\AUCTION\obj\x86\Debug\AUCTION.vbproj.GenerateResource.Cache
+C:\Users\nishanth b\AppData\Local\Temporary Projects\AUCTION\obj\x86\Debug\AUCTION.exe
+C:\Users\nishanth b\AppData\Local\Temporary Projects\AUCTION\obj\x86\Debug\AUCTION.xml
+C:\Users\nishanth b\AppData\Local\Temporary Projects\AUCTION\obj\x86\Debug\AUCTION.pdb
+C:\Users\nishanth b\AppData\Local\Temporary Projects\AUCTION\obj\x86\Debug\AUCTION.loginpage.resources
+C:\Users\nishanth b\Desktop\5th_sem_prjt\AUCTION\AUCTION\obj\x86\Debug\AUCTION.exe
+C:\Users\nishanth b\Desktop\5th_sem_prjt\AUCTION\AUCTION\obj\x86\Debug\AUCTION.xml
+C:\Users\nishanth b\Desktop\5th_sem_prjt\AUCTION\AUCTION\obj\x86\Debug\AUCTION.pdb
+C:\Users\nishanth b\Desktop\5th_sem_prjt\AUCTION\AUCTION\bin\Debug\AUCTION.exe
+C:\Users\nishanth b\Desktop\5th_sem_prjt\AUCTION\AUCTION\bin\Debug\AUCTION.pdb
+C:\Users\nishanth b\Desktop\5th_sem_prjt\AUCTION\AUCTION\bin\Debug\AUCTION.xml
+C:\Users\nishanth b\Desktop\5th_sem_prjt\AUCTION\AUCTION\obj\x86\Debug\AUCTION.AUCTION.resources
+C:\Users\nishanth b\Desktop\5th_sem_prjt\AUCTION\AUCTION\obj\x86\Debug\AUCTION.loginpage.resources
+C:\Users\nishanth b\Desktop\5th_sem_prjt\AUCTION\AUCTION\obj\x86\Debug\AUCTION.Resources.resources
+C:\Users\nishanth b\Desktop\5th_sem_prjt\AUCTION\AUCTION\obj\x86\Debug\AUCTION.vbproj.GenerateResource.Cache
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.exe
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.xml
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.pdb
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\bin\Debug\AUCTION.exe
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.AUCTION.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.loginpage.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.Resources.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.vbproj.GenerateResource.Cache
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\bin\Debug\AUCTION.pdb
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\bin\Debug\AUCTION.xml
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.auctionMDI.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.product_info.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.rules_regulation.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.fashion.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.registration.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.electronics.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.artsandcollections.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.more.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.userlogintab.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.accesspage.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.statuspage.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.UserInfomation.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.men_accessories.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.mens_clothing.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.mens_shoes.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.kids_clothing.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.kids_shoes.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.womens_accessories.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.women_clothing.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.women_shoes.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.laptop.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.tablets.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.cam_drones.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.digi_cameras.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.lens.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.smartphones.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.smartwatches.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.asian_antiques.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.music_instruments.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.pottery.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.sculpting.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.stamps_india.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.stamps_japan.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.stamps_korea.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.product_registration.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.exe
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.xml
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.pdb
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\bin\Debug\AUCTION.exe
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\bin\Debug\AUCTION.pdb
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\bin\Debug\AUCTION.xml
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.accesspage.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.artsandcollections.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.asian_antiques.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.AUCTION.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.auctionMDI.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.cam_drones.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.digi_cameras.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.electronics.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.fashion.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.kids_clothing.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.kids_shoes.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.laptop.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.lens.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.loginpage.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.mens_clothing.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.mens_shoes.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.men_accessories.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.more.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.music_instruments.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.Resources.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.pottery.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.product_info.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.product_registration.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.registration.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.rules_regulation.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.sculpting.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.smartphones.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.smartwatches.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.stamps_india.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.stamps_japan.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.stamps_korea.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.statuspage.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.tablets.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.UserInfomation.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.userlogintab.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.womens_accessories.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.women_clothing.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.women_shoes.resources
+D:\AUCTION\AUCTION_PRODUCT\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.vbproj.GenerateResource.Cache
+E:\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.exe
+E:\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.xml
+E:\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.pdb
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.exe
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.xml
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.pdb
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\bin\Debug\AUCTION.exe
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\bin\Debug\AUCTION.pdb
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\bin\Debug\AUCTION.xml
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.accesspage.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.artsandcollections.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.asian_antiques.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.AUCTION.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.auctionMDI.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.cam_drones.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.digi_cameras.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.electronics.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.fashion.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.kids_clothing.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.kids_shoes.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.laptop.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.lens.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.loginpage.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.mens_clothing.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.mens_shoes.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.men_accessories.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.more.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.music_instruments.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.Resources.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.pottery.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.product_info.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.product_registration.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.registration.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.rules_regulation.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.sculpting.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.smartphones.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.smartwatches.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.stamps_india.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.stamps_japan.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.stamps_korea.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.statuspage.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.tablets.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.UserInfomation.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.userlogintab.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.womens_accessories.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.women_clothing.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.women_shoes.resources
+D:\5th sem nots\auctiontere\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.vbproj.GenerateResource.Cache
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.exe
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.xml
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.pdb
+D:\auction_project\AUCTION_PRODUCT\AUCTION\bin\Debug\AUCTION.exe
+D:\auction_project\AUCTION_PRODUCT\AUCTION\bin\Debug\AUCTION.pdb
+D:\auction_project\AUCTION_PRODUCT\AUCTION\bin\Debug\AUCTION.xml
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.accesspage.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.artsandcollections.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.asian_antiques.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.AUCTION.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.auctionMDI.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.cam_drones.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.digi_cameras.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.electronics.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.fashion.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.kids_clothing.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.kids_shoes.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.laptop.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.lens.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.loginpage.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.mens_clothing.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.mens_shoes.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.men_accessories.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.music_instruments.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.Resources.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.pottery.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.product_info.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.product_registration.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.registration.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.rules_regulation.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.sculpting.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.smartphones.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.smartwatches.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.stamps_india.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.stamps_japan.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.stamps_korea.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.statuspage.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.tablets.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.UserInfomation.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.userlogintab.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.womens_accessories.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.women_clothing.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.women_shoes.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.vbproj.GenerateResource.Cache
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.product_desc.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.report.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.oldpassword.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.adminaccess.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.auctionreport.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.accessadmin.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.adminforgotpass.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.aboutus.resources
+D:\auction_project\AUCTION_PRODUCT\AUCTION\obj\x86\Debug\AUCTION.bidding.resources

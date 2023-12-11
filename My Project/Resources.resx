@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="apple-iphone-14-pro-max-256-gb-deep-purple-6-gb-ram-" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apple-iphone-14-pro-max-256-gb-deep-purple-6-gb-ram-.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SBC-baby-boy_06._SY530_QL85_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SBC-baby-boy_06._SY530_QL85_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Webp.net-resizeimage-4-1200x900" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Webp.net-resizeimage-4-1200x900.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="54ad748de4b058ea7711d504" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\54ad748de4b058ea7711d504.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="motorola-edge-20-fusion-128-gb-electric-graphite-6-gb-ram- (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\motorola-edge-20-fusion-128-gb-electric-graphite-6-gb-ram- (4).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="emblom1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\emblom.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kids-shoes-1563014292-4996704" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kids-shoes-1563014292-4996704.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="afd86f95484148860e221aee8b016737" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\afd86f95484148860e221aee8b016737.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a708f74b737c592d8691bf5b28fa2652--yi-sun-sin-south-korea" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\a708f74b737c592d8691bf5b28fa2652--yi-sun-sin-south-korea.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="emblom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\emblom.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BG1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BG1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="airMail_stamp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\airMail_stamp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="appl loptop4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\appl loptop.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="womens-accessories-1621425704-5828046" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\womens-accessories-1621425704-5828046.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vivo-v25-pro-256-gb-sailing-blue-12-gb-ram- (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vivo-v25-pro-256-gb-sailing-blue-12-gb-ram- (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="71x3-vIYw2L._AC_UL320_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\71x3-vIYw2L._AC_UL320_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="appl loptop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\appl loptop.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mdi_auc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mdi_auc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background18.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="auction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\auction.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="039a6215_1_6_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\039a6215_1_6_6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="THAI" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\THAI.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="21-avatar-lineal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\21-avatar-lineal2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="41xiaUAU9NL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\41xiaUAU9NL.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="womanshoes1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\womanshoes1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camera11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camera11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arts_poductinfo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\arts_poductinfo1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kamakura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kamakura.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camera1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camera1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image-asset" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\image-asset.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stamps1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stamps1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="phonepay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\phonepay.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kikumon-stamp-of-japan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\kikumon-stamp-of-japan.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="women-shoes-mobile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\women-shoes-mobile.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="occasion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\occasion.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0f6e7dd6ae0c86f51c26868a85238648--meiji-vase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0f6e7dd6ae0c86f51c26868a85238648--meiji-vase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="auc_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\auc_img.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="758841c0acc611d8430cf9d4a4fa94693bf70392" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\758841c0acc611d8430cf9d4a4fa94693bf70392.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lady" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lady.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buddha" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buddha.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="holkar_state_stamp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\holkar_state_stamp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2016-1st-place-crystal-classic-sandsculpting-competition-siesta-key" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2016-1st-place-crystal-classic-sandsculpting-competition-siesta-key.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WILD-LIFE-SERIES-INDIAN-LION-COMMEMORATIVE-STAMP1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\WILD-LIFE-SERIES-INDIAN-LION-COMMEMORATIVE-STAMP.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="womanstyle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\womanstyle.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fashion1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fashion1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sarangi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sarangi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pTron-FORCE-X10-Smart-Watch-493627249-i-1-1200Wx1200H" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pTron-FORCE-X10-Smart-Watch-493627249-i-1-1200Wx1200H.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nataraja" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nataraja.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="access_page_pic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\access_page_pic.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="21-avatar-lineal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\21-avatar-lineal.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ninja3_black_01_400x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ninja3_black_01_400x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="appl loptop3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\appl loptop.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ipad-10th-gen-finish-select-202212-pink-wifi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ipad-10th-gen-finish-select-202212-pink-wifi.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="womanshoes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\womanshoes.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Style-Accessories-for-Men" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Style-Accessories-for-Men.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WILD-LIFE-SERIES-INDIAN-LION-COMMEMORATIVE-STAMP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\WILD-LIFE-SERIES-INDIAN-LION-COMMEMORATIVE-STAMP.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mens-Fashion-Accessories-800x534" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mens-Fashion-Accessories-800x534.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="why-you-should-own-koban-stamps-of-japan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\why-you-should-own-koban-stamps-of-japan.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="train2_stamp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\train2_stamp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MKU93_VW_34FR+watch-40-alum-starlight-cell-se_VW_34FR_WF_CO_GEO_IN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MKU93_VW_34FR+watch-40-alum-starlight-cell-se_VW_34FR_WF_CO_GEO_IN.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SBC-baby-boy_061" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SBC-baby-boy_06._SY530_QL85_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="payapl_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\payapl_logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mdi1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mdi1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ba3f5338693ea00fb8e613a22f7e196e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\ba3f5338693ea00fb8e613a22f7e196e.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Canon-EF-S-18-55mm-f4-5.6-IS-STM-Lens-Online-Buy-Mumbai-India-2-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Canon-EF-S-18-55mm-f4-5.6-IS-STM-Lens-Online-Buy-Mumbai-India-2-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\300x300.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="How-much-Johannes-Reekers-painting-worth" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\How-much-Johannes-Reekers-painting-worth.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MP000000013748431_437Wx649H_202207101148401" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MP000000013748431_437Wx649H_202207101148401.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coding_gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coding_gif.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kids" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kids.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mdi31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mdi31.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mdi3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mdi3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chinse_fig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chinse_fig.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="password-forgot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\password-forgot.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="55440" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\55440.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a_mdi1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a_mdi1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MKU93" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MKU93.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="17-avatar-man-nodding-lineal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\17-avatar-man-nodding-lineal1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8d0db401031e4decbdf0d82dce54c796_G7+X+mkIII+BK+Front" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8d0db401031e4decbdf0d82dce54c796_G7+X+mkIII+BK+Front.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="77636F_pds0011" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\77636F_pds0011.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RHINO-COMMEMORATIVE-STAMP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\RHINO-COMMEMORATIVE-STAMP.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="61HkxdsBSXL._UY625_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\61HkxdsBSXL._UY625_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mac" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\mac.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="istockphoto-185295219-612x612" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\istockphoto-185295219-612x612.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="12e8d1ddf5724ed8b5910734f1dfed67_RF14-35mm+f4L+IS+USM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\12e8d1ddf5724ed8b5910734f1dfed67_RF14-35mm+f4L+IS+USM.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tumblr_ociwti5VGH1uceufyo1_1280" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tumblr_ociwti5VGH1uceufyo1_1280.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="laptop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\laptop.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="smartph" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\smartph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Media_product_info" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Media_product_info.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kidsfashion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kidsfashion.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="train_stamp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\train_stamp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lenovo_thinkpad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lenovo_thinkpad.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pro_info" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pro_info.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="taj_stamp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\taj_stamp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shoes-on-amazon-amazon-running-shoes-91781166" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shoes-on-amazon-amazon-running-shoes-91781166.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot 2023-02-02 145323" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Screenshot 2023-02-02 145323.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="access_page_pic1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\access_page_pic1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="republic-of-korea-flag-on-postage-stamp-2A7TFA8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\republic-of-korea-flag-on-postage-stamp-2A7TFA8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="61HkxdsBSXL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\61HkxdsBSXL._UY625_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="electronics1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\electronics1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manstyle11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manstyle11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="51BEnCiD+VL._SY355_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\51BEnCiD+VL._SY355_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="asus-laptops-v9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\asus-laptops-v9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camera" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camera.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manstyle1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manstyle1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="34-code-outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\34-code-outline.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background110" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background119.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="81dBU+dhARL._AC_SL1500_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\81dBU+dhARL._AC_SL1500_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d9h2dp2euvmucluf5djz4q384zc7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d9h2dp2euvmucluf5djz4q384zc7.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0f02c219dc3645ad9f6622fa535fb049--low-cost-tech-news" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0f02c219dc3645ad9f6622fa535fb049--low-cost-tech-news.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mdi32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mdi32.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arts_poductinfo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\arts_poductinfo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="71R6LTyMphL._SY355_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\71R6LTyMphL._SY355_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="main-image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\main-image.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MKU93_VW_PF+watch-40-alum-starlight-cell-se_VW_PF_WF_CO_GEO_IN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MKU93_VW_PF+watch-40-alum-starlight-cell-se_VW_PF_WF_CO_GEO_IN.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ceramic-pottery-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ceramic-pottery-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dell-laptops-v9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dell-laptops-v9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a_mdi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a_mdi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arts1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\arts1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paytm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paytm.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e024923fbeb237384d84bf90f49c1351" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e024923fbeb237384d84bf90f49c1351.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Clars" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Clars.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1636094253-2135" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1636094253-2135.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gpay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gpay.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="61C-IWVh2pL._UY500_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\61C-IWVh2pL._UY500_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="193113951908-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\193113951908-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hp-laptops-v9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hp-laptops-v9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ind_stamp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\ind_stamp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="71mdoicpqWL._AC_SL1500_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\71mdoicpqWL._AC_SL1500_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ba3f5338693ea00fb8e613a22f7e196e1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\ba3f5338693ea00fb8e613a22f7e196e.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="baby-girls-boy-newborn-kids-clothes-clothing-long-sleeve-dresses-winter-sky-b-lue-3t-kids-233_1445x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\baby-girls-boy-newborn-kids-clothes-clothing-long-sleeve-dresses-winter-sky-b-lue-3t-kids-233_1445x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="greek" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\greek.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quadcopter-hd-camera-drone-SDL835268691-1-eee9e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quadcopter-hd-camera-drone-SDL835268691-1-eee9e.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background19.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\download.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="aucMDI" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\aucMDI.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="product_info_gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\product_info_gif.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Drone 1 (3)-min-1000x1000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Drone 1 (3)-min-1000x1000.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="appl loptop5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\appl loptop.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MDI" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MDI.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="17-avatar-man-nodding-lineal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\17-avatar-man-nodding-lineal.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="21-avatar-lineal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\21-avatar-lineal1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bg_auction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bg_auction.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="auc_img1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\auc_img1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background110" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background120.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

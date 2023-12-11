@@ -1,0 +1,652 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AUCTION
+</name>
+</assembly>
+<members>
+<member name="P:AUCTION.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._039a6215_1_6_6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._0f02c219dc3645ad9f6622fa535fb049__low_cost_tech_news">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._0f6e7dd6ae0c86f51c26868a85238648__meiji_vase">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._12e8d1ddf5724ed8b5910734f1dfed67_RF14_35mm_f4L_IS_USM">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._1636094253_2135">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._17_avatar_man_nodding_lineal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._17_avatar_man_nodding_lineal1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._193113951908_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._2016_1st_place_crystal_classic_sandsculpting_competition_siesta_key">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._21_avatar_lineal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._21_avatar_lineal1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._21_avatar_lineal2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._300x300">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._34_code_outline">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._41xiaUAU9NL">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._51BEnCiD_VL__SY355_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._54ad748de4b058ea7711d504">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._55440">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._61C_IWVh2pL__UY500_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._61HkxdsBSXL__UY625_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._61HkxdsBSXL1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._71mdoicpqWL__AC_SL1500_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._71R6LTyMphL__SY355_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._71x3_vIYw2L__AC_UL320_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._758841c0acc611d8430cf9d4a4fa94693bf70392">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._77636F_pds0011">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._81dBU_dhARL__AC_SL1500_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources._8d0db401031e4decbdf0d82dce54c796_G7_X_mkIII_BK_Front">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.a_mdi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.a_mdi1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.a708f74b737c592d8691bf5b28fa2652__yi_sun_sin_south_korea">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.access_page_pic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.access_page_pic1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.afd86f95484148860e221aee8b016737">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.airMail_stamp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.appl_loptop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.appl_loptop3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.appl_loptop4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.appl_loptop5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.apple_iphone_14_pro_max_256_gb_deep_purple_6_gb_ram_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.arts_poductinfo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.arts_poductinfo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.arts1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.asus_laptops_v9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.auc_img">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.auc_img1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.aucMDI">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.auction">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.ba3f5338693ea00fb8e613a22f7e196e">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.ba3f5338693ea00fb8e613a22f7e196e1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.baby_girls_boy_newborn_kids_clothes_clothing_long_sleeve_dresses_winter_sky_b_lue_3t_kids_233_1445x">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.background1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.background11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.background110">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.background12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.background13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.background14">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.background15">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.background16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.background17">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.background18">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.background19">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.bg_auction">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.BG1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.buddha">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.camera">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.camera1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.camera11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.Canon_EF_S_18_55mm_f4_5_6_IS_STM_Lens_Online_Buy_Mumbai_India_2_500x500">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.ceramic_pottery_500x500">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.chinse_fig">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.Clars">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.coding_gif">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.d9h2dp2euvmucluf5djz4q384zc7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.dell_laptops_v9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.Drone_1__3__min_1000x1000">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.e024923fbeb237384d84bf90f49c1351">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.electronics1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.emblom">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.emblom1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.fashion1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.gpay">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.greek">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.holkar_state_stamp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.How_much_Johannes_Reekers_painting_worth">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.hp_laptops_v9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.image_asset">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.ind_stamp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.ipad_10th_gen_finish_select_202212_pink_wifi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.istockphoto_185295219_612x612">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.kamakura">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.kids">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.kids_shoes_1563014292_4996704">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.kidsfashion">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.kikumon_stamp_of_japan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.lady">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.laptop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.lenovo_thinkpad">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.mac">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.main_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.manstyle1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.manstyle11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.MDI">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.mdi_auc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.mdi1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.mdi3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.mdi31">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.mdi32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.Media_product_info">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.Mens_Fashion_Accessories_800x534">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.MKU93">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.MKU93_VW_34FR_watch_40_alum_starlight_cell_se_VW_34FR_WF_CO_GEO_IN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.MKU93_VW_PF_watch_40_alum_starlight_cell_se_VW_PF_WF_CO_GEO_IN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.motorola_edge_20_fusion_128_gb_electric_graphite_6_gb_ram___4_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.MP000000013748431_437Wx649H_202207101148401">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.nataraja">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.Ninja3_black_01_400x">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.occasion">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.p01">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.p1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.p11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.password_forgot">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.payapl_logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.paytm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.phonepay">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.pro_info">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.product_info_gif">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.pTron_FORCE_X10_Smart_Watch_493627249_i_1_1200Wx1200H">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.Quadcopter_hd_camera_drone_SDL835268691_1_eee9e">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.republic_of_korea_flag_on_postage_stamp_2A7TFA8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.RHINO_COMMEMORATIVE_STAMP">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.sarangi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.SBC_baby_boy_06__SY530_QL85_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.SBC_baby_boy_061">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.Screenshot_2023_02_02_145323">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.shoes_on_amazon_amazon_running_shoes_91781166">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.smartph">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.stamps1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.Style_Accessories_for_Men">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.taj_stamp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.THAI">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.train_stamp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.train2_stamp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.tumblr_ociwti5VGH1uceufyo1_1280">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.vivo_v25_pro_256_gb_sailing_blue_12_gb_ram___2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.Webp_net_resizeimage_4_1200x900">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.why_you_should_own_koban_stamps_of_japan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.WILD_LIFE_SERIES_INDIAN_LION_COMMEMORATIVE_STAMP">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.WILD_LIFE_SERIES_INDIAN_LION_COMMEMORATIVE_STAMP1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.womanshoes">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.womanshoes1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.womanstyle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.women_shoes_mobile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AUCTION.My.Resources.Resources.womens_accessories_1621425704_5828046">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AUCTION.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
